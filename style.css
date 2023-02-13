@@ -1,0 +1,244 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,700&display=swap');
+body {
+    margin: 25px 130px;
+    font-family: 'Roboto', sans-serif;
+}
+.Course {
+    margin-bottom: 50px;
+}
+.sync {
+    width: 9%;
+height: 2%;
+}
+.globe {
+    width: 25px;
+    height: 25px;
+}
+.black {
+    background-color: black;
+}
+.online,.duration,.calendar {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    width:40%;
+    display: flex;
+    justify-content:space-between;
+}
+.cameraman {
+    display:flex ;
+}
+.title {
+    margin: 0;
+}
+h1 {
+    width: 85%;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 81px;
+}
+.first {
+    font-size: 20px;
+    line-height: 30px;
+    width: 65%;
+}
+.shadowed-cameraman {
+    display: flex;
+}
+.shadow {
+    position: absolute;
+    padding-top: 24%;
+}
+.blue {
+    background-color:  #1E4681;
+    border-radius: 5%;
+    color: aliceblue;
+    width: 40%;
+    margin-left: 25%;
+}
+.blue-quote {
+font-size: 25px;
+    padding: 5% ;
+    color: aliceblue;
+}
+.author {
+    font-size: 20px;
+    color:white;
+    text-align: end;
+    padding-right: 11px;
+    padding-bottom: 15px;
+}
+.second-camera {
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.text-one {
+   
+}
+.films {
+    width: 80%;
+    font-size: 24px;
+    line-height: 36px;
+}
+.second-cameraman {
+    width: 25%;
+    height: 25%;
+}
+h2 {
+    font-size: 55px;
+}
+.crane {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.lesson,.hours,.weeks {
+    width: 15%;
+}
+.format {
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin-bottom: 150px;
+}
+.vibinari {
+    width: 30%;
+}
+.blue-text {
+    color: #1E4681;
+    font-size: 25px;
+    font-weight: 700;
+}
+.format-text {
+    font-size: 18px;
+}
+li {
+    width: 50%;
+    line-height: 36px;
+    font-size: 24px;
+}
+.cards-grid {
+    gap: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards {
+    box-shadow: 1px 1px 15px rgba(112, 108, 108, 0.25);
+    border-radius: 5%;
+    width: 30%;
+}
+.passed {
+    padding-left: 50px;
+}
+.pad-text {
+    padding-left: 15px;
+    font-size: 25px;
+    margin: 0;
+}
+.one,.two,.three,.four,.five,.six,.seven,.eight {
+    width: 95%;
+}
+.review {
+    background-color: #EFEFEF;
+    padding: 50px;
+}
+.photo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 63%;
+}
+.Kate {
+    background-color: rgb(255, 255, 255);
+    width: 65%;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 50px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 5%;
+    padding: 15px 35px;
+}
+.ice {
+    background-color: #9DC9C8;
+    padding: 50px 100px;
+
+}
+.cost {
+    font-size: 25px;
+    margin: 0px;
+}
+.money {
+    font-size: 80px;
+    margin: 0px;
+}
+.price {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: left;
+
+}
+.suitable {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    gap: 45px;
+}
+.level {
+    font-size: 25px;
+}
+.welcome {
+    font-size: 18px;
+}
+.left-bottom {
+    width: 90%;
+}
+footer {
+    background-color: black;
+    color: white;
+}
+.white-stripe {
+    background-color: white;
+    color: white;
+    width: 83%;
+    height: 13%;
+}
+.sin {
+    width: 10%;
+    color: white;
+}
+.foot {
+    padding-left: 50px;
+    justify-content: space-between;
+    width: 90%;
+    display: flex;
+}
+.phone {
+   justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.e-mail {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.foot-left,.foot-right {
+    margin: 50px 50px 80px 50px;
+}
+.bottom-line {
+    padding-left: 110px;
+    padding-bottom: 50px;
+}
